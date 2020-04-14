@@ -35,3 +35,5 @@ studytypes<-c("EPI: Case report"=1,
 ```
 
 We screen and verify data manually. The completion status (reference_complete) corresponds with: 0=not screened, 1=screened but not yet verified, 2=screened and verified.
+
+
