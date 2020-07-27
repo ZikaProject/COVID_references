@@ -2,9 +2,14 @@
 Reference list of COVID-19 research, retrieved and classified according to [these methods](https://ispmbern.github.io/covid-19/living-review/).
 
 # Current.csv is the most current database
+
+**[NOTE: from 27.07.2020 the dataset is cut into parts, due to the large volume]***
+
 ```
-references<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current.csv", stringsAsFactors=FALSE)
+references1<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part1.csv", stringsAsFactors=FALSE)
+references2<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part2.csv", stringsAsFactors=FALSE)
 ```
+
 
 # Annotated data
 Studies are classified by study design (in the dataset: studytype1). We distinguish between: 
