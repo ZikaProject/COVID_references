@@ -8,6 +8,14 @@ Reference list of COVID-19 research, retrieved and classified according to [thes
 ```
 references1<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part1.csv", stringsAsFactors=FALSE)
 references2<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part2.csv", stringsAsFactors=FALSE)
+references3<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part3.csv", stringsAsFactors=FALSE)
+references4<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part4.csv", stringsAsFactors=FALSE)
+references5<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part5.csv", stringsAsFactors=FALSE)
+references6<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part6.csv", stringsAsFactors=FALSE)
+references7<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part7.csv", stringsAsFactors=FALSE)
+references8<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part8.csv", stringsAsFactors=FALSE)
+references9<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part9.csv", stringsAsFactors=FALSE)
+
 ```
 
 
